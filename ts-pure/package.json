@@ -1,0 +1,23 @@
+{
+  "name": "first-course",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/d-vasilenko/ts#readme",
+  "bugs": {
+    "url": "https://github.com/d-vasilenko/ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-vasilenko/ts.git"
+  },
+  "license": "MIT",
+  "author": "Denis Vasilenko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
