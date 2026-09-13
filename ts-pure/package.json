@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "tsx 02-basic-types/02-arrays-tuples.ts"
+    "start": "tsx 02-basic-types/04-any-unknown.ts"
   },
   "devDependencies": {
     "tsx": "^4.23.13",
