@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "tsx 02-basic-types/04-any-unknown.ts"
+    "start": "tsx /home/garryin/Code/ts/first-course/ts-pure/03-functions-interfaces/01-function-types.ts"
   },
   "devDependencies": {
     "tsx": "^4.23.13",
