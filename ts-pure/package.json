@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "tsx /home/garryin/Code/ts/first-course/ts-pure/03-functions-interfaces/04-intersection-and-literal.ts"
+    "start": "tsx /home/garryin/Code/ts/first-course/ts-pure/04-classes-oop/03-abstract-classes.ts"
   },
   "devDependencies": {
     "tsx": "^4.23.13",
