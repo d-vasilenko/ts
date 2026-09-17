@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "tsx /home/garryin/Code/ts/first-course/ts-pure/04-classes-oop/03-abstract-classes.ts"
+    "start": "tsx /home/garryin/Code/ts/first-course/ts-pure/05-generics/04-high-order-generics.ts"
   },
   "devDependencies": {
     "tsx": "^4.23.13",
