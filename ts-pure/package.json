@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "tsx /home/garryin/Code/ts/first-course/ts-pure/06-advanced-types/01-utility-types.ts"
+    "start": "tsx /home/garryin/Code/ts/first-course/ts-pure/06-advanced-types/02-mapped-types.ts"
   },
   "devDependencies": {
     "tsx": "^4.23.13",
